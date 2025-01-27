@@ -180,7 +180,7 @@ available_setting = {
     "Minimax_group_id": "",
     "Minimax_base_url": "",
     "ollama": {
-        "model": "llama3.2",
+        "model": "deepseek-r1:7b",
         "base_url": "http://localhost:11434"
     }}
 

@@ -36,7 +36,7 @@
     "linkai_api_key": "",
     "linkai_app_code": "",
     "ollama": {
-        "model": "llama3.2",
+        "model": "deepseek-r1:7b",
         "base_url": "http://localhost:11434"
     }
 }
